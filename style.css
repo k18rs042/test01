@@ -1,0 +1,30 @@
+body {
+ background: #8fdc83;
+ width: 96%;
+ max-width: 800px;
+ margin-right: auto;
+ margin-left: auto;
+}
+h1 {
+ text-align: center;
+ color : blue;
+ font-size: 1.6em;
+ border-style: solid;
+ border-width: 1px 6px 1px 6px;
+ border-color: #8888cc;
+
+}
+h2 {
+ text-align: center;
+ border-style: solid;
+ border-width: 1px 6px 1px 6px;
+ border-color: #8888cc;
+}
+img {
+ max-width: 100%;
+}
+
+small {
+ text-align: left;
+}
+
